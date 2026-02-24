@@ -1,6 +1,10 @@
-# Shop Daten Analyse – El Puente (2021)
+# Shop Daten Analyse – Fair-Trade-Dienstleister (2021)
 
-Verkaufsanalyse eines Fair-Trade-Dienstleisters mit Sitz in Nordstemmen, Deutschland. Grundlage sind Verkaufsdaten aus zwei Regionen für das Jahr 2021.
+Verkaufsanalyse eines Fair-Trade-Unternehmens mit zwei Verkaufsregionen für das Jahr 2021.
+
+## Disclaimer
+
+> Dieses Projekt ist ein Lernprojekt. Alle verwendeten Daten sind fiktiv und dienen ausschließlich Übungszwecken. Etwaige Ähnlichkeiten mit realen Unternehmen, Produkten oder Umsatzzahlen sind rein zufällig.
 
 ## Datenbasis
 
@@ -23,7 +27,7 @@ Produkt C für Europa wurde rechnerisch ermittelt: **C = (A+B+C) − A − B**
 ```
 README.md
 shop_data_analyse_bereinigt.ipynb   -- Analyse-Notebook (Python)
-ElPuente_Analyse.pptx               -- Präsentation mit Ergebnissen
+Shop_Daten_Analyse.pptx               -- Präsentation mit Ergebnissen
 Shop_Data.xlsx                      -- Rohdaten Deutschland
 Shopauswertung.csv                  -- Rohdaten Europa
 ```
